@@ -1,6 +1,6 @@
 1. Extract file ini ke folder xampp/htdocs
 2. import database di folder database.
-3. berinama database sesuai dengan nama file (fpk_bpjs)
+3. beri nama database sesuai dengan nama file (fpk_bpjs)
 
 username : admin@admin.com
 password : administrator
